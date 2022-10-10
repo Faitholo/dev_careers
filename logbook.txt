@@ -1,1 +1,8 @@
-First learning path: Version Control with Git
+Course 1: Version Control with Git
+
+Skills Acquired:
+1. A strong understanding of Git version control and its applications in software projects.
+2. A deep familiarity with Git for remote collaboration, including team roles.
+3. The ability to control versioning of code repositories using fetch, pull, reversion, and cherry-picking functions.
+4. A working knowledge of common Git functions, including code commit, pushing, branching, and stashing.
+5. Hands-on experience using Git for conflict reconciliation and error correction.
